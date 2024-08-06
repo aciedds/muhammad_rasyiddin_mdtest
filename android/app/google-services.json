@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850909080491",
+    "project_id": "fanitek-test-696d4",
+    "storage_bucket": "fanitek-test-696d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850909080491:android:3b6dd454c2d09afb2e80ee",
+        "android_client_info": {
+          "package_name": "com.example.fanitek_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV196xb-K5nhOl94tT757u7ibmLqYE0kM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
